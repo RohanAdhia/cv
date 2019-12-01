@@ -103,6 +103,8 @@ h3 {
 .footer-text {
   color: #EAF6F6;
   font-size: 0.75rem;
+  width: 20%;
+  margin: auto;
 }
 
 .underline {
